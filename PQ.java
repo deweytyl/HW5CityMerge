@@ -1,4 +1,3 @@
-import java.lang.IndexOutOfBoundsException;
 import java.util.NoSuchElementException;
 
 public abstract class PQ
